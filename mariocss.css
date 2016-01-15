@@ -1,0 +1,14 @@
+html {
+  font-family: arial;
+  background-color: darkgrey;
+  padding: 1em;
+}
+
+body {
+  color: whitesmoke;
+  size: 1em;
+  padding: 1em;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 15px;
+  border: 5px solid black;
+}
